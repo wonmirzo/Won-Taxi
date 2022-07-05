@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navBalance"
+        android:icon="@drawable/ic_baseline_credit_card_24"
+        android:title="Balace" />
+
+    <item
+        android:id="@+id/navSupport"
+        android:icon="@drawable/ic_baseline_newspaper_24"
+        android:title="News" />
+    <item
+        android:id="@+id/navOrderHistory"
+        android:icon="@drawable/ic_baseline_history_24"
+        android:title="Order History" />
+    <item
+        android:id="@+id/navAdverts"
+        android:icon="@drawable/ic_baseline_mark_email_read_24"
+        android:title="Parcel Adverts" />
+    <item
+        android:id="@+id/navSettings"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="Settings" />
+
+    <item
+        android:id="@+id/navPayment"
+        android:icon="@drawable/ic_baseline_credit_card_24"
+        android:title="Payment type" />
+    <item
+        android:id="@+id/navAbout"
+        android:icon="@drawable/ic_baseline_info_24"
+        android:title="About" />
+    <item
+        android:id="@+id/navLogOut"
+        android:icon="@drawable/ic_baseline_logout_24"
+        android:title="Log Out" />
+
+</menu>
